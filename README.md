@@ -4,7 +4,7 @@ This project is an ongoing exploration of zero-knowledge proofs (ZKPs) using Rus
 
 ## 📚 Project Stages
 
-### Stage 1: Schnorr Key Signatures
+### Stage 1: Schnorr Key Signatures (CURRENT STAGE)
 
 - **Objective**: Understand and implement Schnorr key signatures in Rust.
 - **Status**: Completed
