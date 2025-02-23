@@ -64,6 +64,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Links
 
-- [ZCash Halo2 Book]([https://github.com/nick-stebbings/zkp](https://zcash.github.io/halo2/index.html))
+- [ZCash Halo2 Book]([https://github.com/nick-stebbings/zkp](https://zcash.github.io/halo2/index.html)
 - [Constructing zkSNARK circuits in Rust](https://jtriley.substack.com/p/constructing-zk-snark-circuits)
 - [Why do zkSNARKS run on arithmetic circuits?](https://crypto.stackexchange.com/questions/112545/why-do-snarks-operate-on-arithmetic-circuits)
